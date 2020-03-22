@@ -9,6 +9,11 @@ nav: Dashboard
     <div class="graphic" id="chart-daily-positive-total"></div>
     <div class="graphic" id="chart-daily-death-total"></div>
   </div>
+  <br/>
+  <div class="side-by-side">
+    <div class="graphic" id="chart-states-current-positive-total"></div>
+    <div class="graphic" id="chart-states-current-death-total"></div>    
+  </div>
 </div>
 
 
